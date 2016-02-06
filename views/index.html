@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>文件上传</title>
+  <link rel="stylesheet" href="bootstrap/dist/css/bootstrap.css">
+  <link rel="stylesheet" href="jquery/jquery.alerts.css">
+  <!-- <link rel='stylesheet' href='/stylesheets/style.css' />-->
+  <!--[if lt IE 9]>
+  <script  src="respond/dest/respond.min.js"></script>
+  <![endif]-->
+  <style>
+    .header {
+      width:100%;
+      height:60px;
+      background-color: #00B8EE;
+    }
+    #image-view {
+
+    }
+  </style>
+</head>
+<body>
+<div id="wrapper">
+  <div class="header">
+    <span style="float:right;font-size:20px;line-height:3.0;margin-right:20px;color:#465567;">文件上传服务器</span>
+  </div>
+  <div class="container clearfix" style="width:100%;">
+    <div id="chose-picture">
+      <a href="#" id="pickfiles" class="btn btn-default btn-lg " style="margin:10px 0px 0px 10px;">
+        <i class="glyphicon glyphicon-plus"></i>
+        <span>选择文件</span>
+      </a>
+      <a class="btn btn-default" id="start_upload">
+        <span>开始上传</span>
+      </a>
+      <table style="width:70%;margin:30px 0px 0px 10px;" id="file-info" class="table table-striped table-hover">
+        <thead>
+          <tr>
+            <th style="width:30%;">Filename</th>
+            <th style="width:30%;">Size</th>
+            <th style="width:40%;">Detail</th>
+          </tr>
+        </thead>
+        <tbody>
+        </tbody>
+      </table>
+    </div>
+    <div id="image-view" class="row" >
+      <div class="col-sm-3"></div>
+      <div class="col-sm-3"></div>
+      <div class="col-sm-3"></div>
+    </div>
+  </div>
+  <div class="footer">
+
+  </div>
+</div>
+<script type="text/javascript" src="jquery/jquery.min.js"></script>
+<script type="text/javascript" src="plupload/js/plupload.full.min.js"></script>
+<script type="text/javascript" src="plupload/js/i18n/zh_CN.js"></script>
+<script type="text/javascript" src="jquery/jquery.alerts.js"></script>
+
+<script type="text/javascript">
+  // 获取上传凭证,token的有效时间是一小时
+  function getToken() {
+    $.ajax({
+      type: 'GET',
+      url: '/uptoken',
+      dataType: 'json',
+      success: function (data) {
+        token = data.uptoken;
+      }
+    });
+  }
+
+  /*
+   * 该实例为直接上传文件，不分块，
+   1、业务服务器生成 uptoken（不设置回调，自己回调到自己这里没有意义）
+   2、凭借 上传凭证 上传文件到七牛
+   3、善后工作，比如保存相关的一些信息
+   */
+  var token,uploader;
+  $(function() {
+    //实例化一个plupload上传对象
+    uploader = new plupload.Uploader({
+      runtimes: 'html5,flash,html4',
+      browse_button : 'pickfiles', //触发文件选择对话框的按钮，为那个元素id
+      url: 'http://upload.qiniu.com/',  // 服务器上传地址
+      unique_names: true,
+      multipart: true,
+      multipart_params: {},     // 后续设置该从参数的值
+    });
+
+    //在实例对象上调用init()方法进行初始化
+    uploader.init();
+
+    // 当上传队列中的某一文件正要开始上传前触发
+    uploader.bind('BeforeUpload', function(uploader, files){
+      // 设置当前上传文件名和token
+      uploader.setOption('multipart_params', {
+        token: token,
+        'key': files.name,        // 设置key，key即为存放在云上的文件名
+      });
+    });
+
+    // 当文件添加到上传队列后触发,files为一数组（本次添加的文件对象数组）
+    uploader.bind('FilesAdded',function(uploader, files){
+      var html = '';
+      for(var i=0; i<files.length; i++) {
+        html = '<tr>'
+                +'<td>'+files[i].name+'</td>'
+                +'<td>'+files[i].size+'B'+'</td>'
+                +'<td>'+'未上传'+'</td>'
+        '</tr>';
+        $('#file-info tbody').append(html);
+      }
+    });
+
+    // 文件上传过程中不断触发，可以用此事件来显示上传进度
+    uploader.bind('UploadProgress',function(uploader,file){
+    });
+
+    // 当当前上传文件队列中的所有文件都已上传完时触发
+    uploader.bind('UploadComplete',function(uploader,file){
+      // 修改表格状态
+      $('#file-info tbody tr').each(function(index, ele){
+        var text = $(this).find('td:eq(2)').text();
+        if(text == '未上传') {
+          $(this).find('td:eq(2)').text('已上传');
+        }
+      });
+      // 清空文件队列
+      file.length = 0 ;
+    });
+
+    //最后给"开始上传"按钮注册事件
+    document.getElementById('start_upload').onclick = function(){
+      // 查看文件队列中是否有文件已被选中 TODO
+      if(uploader.files.length == 0) {
+        jAlert("请添加需要上传的文件！", "提示");
+      }
+      uploader.start(); //调用实例对象的start()方法开始上传文件，当然你也可以在其他地方调用该方法
+    }
+    // 获取token
+    getToken();
+  });
+
+</script>
+</body>
+</html>
