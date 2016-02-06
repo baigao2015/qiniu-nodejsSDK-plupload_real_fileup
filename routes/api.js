@@ -4,10 +4,8 @@
  */
 var express = require('express');
 var router = express.Router();
+var fileupload = require('./fileupload/fileupload');
 
-/* GET home page. */
-router.get('/', function(req, res, next) {
-    res.render('index', { title: 'Express' });
-});
+router.use('/fileupload', fileupload);
 
 module.exports = router;
