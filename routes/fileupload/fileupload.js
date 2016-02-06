@@ -1,5 +1,5 @@
 /**
- * 文件上传API路由请求
+ * 文件上传 API路由请求
  * @type {*|exports|module.exports}
  */
 var qiniu = require('qiniu');

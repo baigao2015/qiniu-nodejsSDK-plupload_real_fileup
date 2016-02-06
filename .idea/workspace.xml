@@ -2,906 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4b62b04-3fc8-41e6-8969-c6d0e6adcac2" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\AUTHORS.en.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\AUTHORS.ru.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\CHANGES.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\README.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\README.ru.md" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\demo\demo.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\demo\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\demo\jquery-2.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\demo\perfect-scrollbar.min.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\demo\perfect-scrollbar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\demo\style.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\docs\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\docs\_static\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\docs\_templates\.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\docs\api.rst" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\docs\building-testing.rst" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\docs\conf.py" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\docs\css-classes-reference.rst" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\docs\index.rst" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\docs\language-contribution.rst" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\docs\language-guide.rst" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\docs\language-requests.rst" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\docs\line-numbers.rst" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\docs\reference.rst" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\docs\release-process.rst" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\docs\style-contribution.rst" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\docs\style-guide.rst" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\package.json" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\highlight.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\1c.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\accesslog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\actionscript.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\apache.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\applescript.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\armasm.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\asciidoc.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\aspectj.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\autohotkey.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\autoit.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\avrasm.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\axapta.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\bash.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\brainfuck.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\cal.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\capnproto.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\ceylon.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\clojure-repl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\clojure.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\cmake.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\coffeescript.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\cpp.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\crmsh.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\crystal.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\cs.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\css.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\d.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\dart.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\delphi.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\diff.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\django.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\dns.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\dockerfile.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\dos.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\dust.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\elixir.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\elm.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\erb.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\erlang-repl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\erlang.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\fix.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\fortran.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\fsharp.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\gams.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\gcode.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\gherkin.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\glsl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\go.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\golo.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\gradle.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\groovy.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\haml.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\handlebars.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\haskell.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\haxe.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\http.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\inform7.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\ini.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\irpf90.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\java.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\javascript.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\json.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\julia.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\kotlin.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\lasso.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\less.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\lisp.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\livecodeserver.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\livescript.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\lua.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\makefile.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\markdown.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\mathematica.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\matlab.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\mel.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\mercury.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\mizar.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\mojolicious.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\monkey.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\nginx.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\nimrod.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\nix.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\nsis.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\objectivec.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\ocaml.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\openscad.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\oxygene.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\parser3.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\perl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\pf.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\php.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\powershell.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\processing.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\profile.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\prolog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\protobuf.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\puppet.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\python.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\q.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\r.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\rib.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\roboconf.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\rsl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\ruby.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\ruleslanguage.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\rust.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\scala.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\scheme.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\scilab.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\scss.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\smali.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\smalltalk.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\sml.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\sqf.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\sql.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\stata.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\step21.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\stylus.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\swift.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\tcl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\tex.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\thrift.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\tp.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\twig.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\typescript.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\vala.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\vbnet.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\vbscript-html.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\vbscript.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\verilog.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\vhdl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\vim.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\x86asm.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\xl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\xml.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\xquery.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\languages\zephir.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\agate.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\androidstudio.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\arta.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\ascetic.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-cave.dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-cave.light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-dune.dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-dune.light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-estuary.dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-estuary.light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-forest.dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-forest.light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-heath.dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-heath.light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-lakeside.dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-lakeside.light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-plateau.dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-plateau.light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-savanna.dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-savanna.light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-seaside.dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-seaside.light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-sulphurpool.dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\atelier-sulphurpool.light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\brown_paper.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\brown_papersq.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\codepen-embed.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\color-brewer.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\darkula.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\default.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\docco.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\far.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\foundation.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\github-gist.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\github.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\googlecode.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\grayscale.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\hopscotch.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\hybrid.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\idea.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\ir_black.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\kimbie.dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\kimbie.light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\magula.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\mono-blue.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\monokai.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\monokai_sublime.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\obsidian.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\paraiso.dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\paraiso.light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\pojoaque.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\pojoaque.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\railscasts.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\rainbow.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\school_book.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\school_book.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\solarized_dark.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\solarized_light.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\sunburst.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\tomorrow-night-blue.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\tomorrow-night-bright.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\tomorrow-night-eighties.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\tomorrow-night.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\tomorrow.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\vs.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\xcode.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\src\styles\zenburn.css" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\api\binaryNumber.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\api\cNumber.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\api\getLanguage.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\api\highlightAuto.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\api\ident.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\api\index.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\api\number.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\api\starters.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\api\underscoreIdent.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\1c\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\accesslog\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\actionscript\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\apache\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\applescript\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\armasm\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\asciidoc\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\aspectj\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\autohotkey\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\autoit\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\avrasm\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\axapta\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\bash\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\brainfuck\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\cal\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\capnproto\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\ceylon\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\clojure-repl\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\clojure\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\cmake\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\coffeescript\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\cpp\comment.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\cpp\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\crmsh\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\crystal\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\cs\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\css\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\d\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\dart\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\delphi\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\diff\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\django\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\dns\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\dockerfile\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\dos\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\dust\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\elixir\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\elm\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\erb\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\erlang-repl\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\erlang\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\fix\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\fortran\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\fsharp\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\gams\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\gcode\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\gherkin\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\glsl\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\go\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\golo\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\gradle\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\groovy\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\haml\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\handlebars\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\haskell\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\haxe\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\http\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\inform7\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\ini\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\irpf90\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\java\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\javascript\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\json\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\julia\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\kotlin\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\lasso\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\less\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\lisp\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\livecodeserver\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\livescript\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\lua\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\makefile\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\markdown\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\mathematica\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\matlab\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\mel\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\mercury\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\mizar\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\mojolicious\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\monkey\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\nginx\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\nimrod\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\nix\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\nsis\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\objectivec\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\ocaml\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\openscad\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\oxygene\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\parser3\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\perl\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\pf\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\php\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\powershell\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\processing\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\profile\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\prolog\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\protobuf\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\puppet\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\python\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\q\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\r\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\rib\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\roboconf\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\rsl\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\ruby\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\ruleslanguage\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\rust\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\scala\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\scheme\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\scilab\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\scss\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\smali\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\smalltalk\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\sml\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\sqf\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\sql\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\stata\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\step21\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\stylus\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\swift\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\tcl\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\tex\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\thrift\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\tp\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\twig\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\typescript\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\vala\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\vbnet\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\vbscript-html\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\vbscript\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\verilog\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\vhdl\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\vim\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\x86asm\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\xl\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\xml\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\xquery\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\detect\zephir\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\expect\brInPre.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\expect\custommarkup.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\expect\customtabreplace.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\expect\explicit1.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\expect\explicit2.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\expect\languagealias.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\expect\sublanguages.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\expect\tabreplace.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\expect\useBr.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\highlight.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\index.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\accesslog\default.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\accesslog\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\aspectj\intertype-constructor.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\aspectj\intertype-constructor.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\aspectj\intertype-method.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\aspectj\intertype-method.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\ceylon\nested-comments.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\ceylon\nested-comments.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\clojure\symbols-numbers.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\clojure\symbols-numbers.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\coffeescript\division.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\coffeescript\division.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\coffeescript\function.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\coffeescript\function.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\coffeescript\regex.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\coffeescript\regex.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\cpp\function-params.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\cpp\function-params.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\cpp\function-preprocessor.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\cpp\function-preprocessor.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\cpp\function-title.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\cpp\function-title.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\cpp\pointers-returns.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\cpp\pointers-returns.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\cpp\primative-types.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\cpp\primative-types.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\cpp\string-literals.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\cpp\string-literals.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\crmsh\basic.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\crmsh\basic.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\crystal\default.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\crystal\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\cs\dotted-namespace.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\cs\dotted-namespace.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\cs\titles.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\cs\titles.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\dockerfile\default.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\dockerfile\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\elixir\function-title.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\elixir\function-title.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\fortran\numbers.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\fortran\numbers.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\fsharp\bang-keywords.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\fsharp\bang-keywords.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\go\numbers.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\go\numbers.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\haml\dashed-values.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\haml\dashed-values.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\haskell\infix.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\haskell\infix.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\haskell\nested-comments.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\haskell\nested-comments.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\http\default.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\http\default.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\index.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\java\numbers.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\java\numbers.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\java\titles.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\java\titles.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\javascript\default-parameters.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\javascript\default-parameters.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\javascript\jsx.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\javascript\jsx.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\javascript\keywords.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\javascript\keywords.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\javascript\modules.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\javascript\modules.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\kotlin\class.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\kotlin\class.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\kotlin\function.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\kotlin\function.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\lasso\delimiters.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\lasso\delimiters.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\lisp\mec.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\lisp\mec.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\matlab\block_comment.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\matlab\block_comment.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\matlab\cell_expansion.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\matlab\cell_expansion.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\matlab\transpose.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\matlab\transpose.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\ocaml\literals.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\ocaml\literals.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\ocaml\types.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\ocaml\types.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\php\comments.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\php\comments.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\php\heredoc.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\php\heredoc.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\python\matrix-multiplication.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\python\matrix-multiplication.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\ruby\gemfile.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\ruby\gemfile.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\ruby\prompt.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\ruby\prompt.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\ruby\regexes.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\ruby\regexes.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\rust\comments.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\rust\comments.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\rust\numbers.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\rust\numbers.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\rust\strings.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\rust\strings.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\rust\traits.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\rust\traits.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\rust\variables.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\rust\variables.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\swift\functions.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\swift\functions.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\twig\filter_with_underscore.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\twig\filter_with_underscore.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\twig\template_tags.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\twig\template_tags.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\typescript\functions.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\typescript\functions.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\typescript\jsx.expect.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\markup\typescript\jsx.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\mocha.opts" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\special\buildClassName.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\special\customMarkup.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\special\explicitLanguage.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\special\index.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\special\languageAlias.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\special\noHighlight.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\special\subLanguages.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\special\useBr.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\test\utility.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\tools\all.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\tools\browser.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\tools\build.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\tools\cdn.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\tools\developer.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\tools\keywordsformat.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\tools\node.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\tools\tasks.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\highlight\tools\utility.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\.bower.json" afterPath="$PROJECT_DIR$/public/bootstrap/.bower.json" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\CHANGELOG.md" afterPath="$PROJECT_DIR$/public/bootstrap/CHANGELOG.md" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\Gruntfile.js" afterPath="$PROJECT_DIR$/public/bootstrap/Gruntfile.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\LICENSE" afterPath="$PROJECT_DIR$/public/bootstrap/LICENSE" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\README.md" afterPath="$PROJECT_DIR$/public/bootstrap/README.md" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\bower.json" afterPath="$PROJECT_DIR$/public/bootstrap/bower.json" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\dist\css\bootstrap-theme.css" afterPath="$PROJECT_DIR$/public/bootstrap/dist/css/bootstrap-theme.css" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\dist\css\bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/public/bootstrap/dist/css/bootstrap-theme.css.map" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\dist\css\bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/public/bootstrap/dist/css/bootstrap-theme.min.css" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\dist\css\bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/public/bootstrap/dist/css/bootstrap-theme.min.css.map" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\dist\css\bootstrap.css" afterPath="$PROJECT_DIR$/public/bootstrap/dist/css/bootstrap.css" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\dist\css\bootstrap.css.map" afterPath="$PROJECT_DIR$/public/bootstrap/dist/css/bootstrap.css.map" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\dist\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/public/bootstrap/dist/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\dist\css\bootstrap.min.css.map" afterPath="$PROJECT_DIR$/public/bootstrap/dist/css/bootstrap.min.css.map" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/public/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/public/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/public/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/public/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/public/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\dist\js\bootstrap.js" afterPath="$PROJECT_DIR$/public/bootstrap/dist/js/bootstrap.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\dist\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/public/bootstrap/dist/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\dist\js\npm.js" afterPath="$PROJECT_DIR$/public/bootstrap/dist/js/npm.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\fonts\glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\fonts\glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\fonts\glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\fonts\glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\fonts\glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/public/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\grunt\.jshintrc" afterPath="$PROJECT_DIR$/public/bootstrap/grunt/.jshintrc" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\grunt\bs-commonjs-generator.js" afterPath="$PROJECT_DIR$/public/bootstrap/grunt/bs-commonjs-generator.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\grunt\bs-glyphicons-data-generator.js" afterPath="$PROJECT_DIR$/public/bootstrap/grunt/bs-glyphicons-data-generator.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\grunt\bs-lessdoc-parser.js" afterPath="$PROJECT_DIR$/public/bootstrap/grunt/bs-lessdoc-parser.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\grunt\bs-raw-files-generator.js" afterPath="$PROJECT_DIR$/public/bootstrap/grunt/bs-raw-files-generator.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\grunt\configBridge.json" afterPath="$PROJECT_DIR$/public/bootstrap/grunt/configBridge.json" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\grunt\sauce_browsers.yml" afterPath="$PROJECT_DIR$/public/bootstrap/grunt/sauce_browsers.yml" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\js\.jscsrc" afterPath="$PROJECT_DIR$/public/bootstrap/js/.jscsrc" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\js\.jshintrc" afterPath="$PROJECT_DIR$/public/bootstrap/js/.jshintrc" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\js\affix.js" afterPath="$PROJECT_DIR$/public/bootstrap/js/affix.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\js\alert.js" afterPath="$PROJECT_DIR$/public/bootstrap/js/alert.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\js\button.js" afterPath="$PROJECT_DIR$/public/bootstrap/js/button.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\js\carousel.js" afterPath="$PROJECT_DIR$/public/bootstrap/js/carousel.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\js\collapse.js" afterPath="$PROJECT_DIR$/public/bootstrap/js/collapse.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\js\dropdown.js" afterPath="$PROJECT_DIR$/public/bootstrap/js/dropdown.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\js\modal.js" afterPath="$PROJECT_DIR$/public/bootstrap/js/modal.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\js\popover.js" afterPath="$PROJECT_DIR$/public/bootstrap/js/popover.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\js\scrollspy.js" afterPath="$PROJECT_DIR$/public/bootstrap/js/scrollspy.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\js\tab.js" afterPath="$PROJECT_DIR$/public/bootstrap/js/tab.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\js\tooltip.js" afterPath="$PROJECT_DIR$/public/bootstrap/js/tooltip.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\js\transition.js" afterPath="$PROJECT_DIR$/public/bootstrap/js/transition.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\.csscomb.json" afterPath="$PROJECT_DIR$/public/bootstrap/less/.csscomb.json" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\.csslintrc" afterPath="$PROJECT_DIR$/public/bootstrap/less/.csslintrc" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\alerts.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/alerts.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\badges.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/badges.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\bootstrap.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/bootstrap.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\breadcrumbs.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/breadcrumbs.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\button-groups.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/button-groups.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\buttons.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/buttons.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\carousel.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/carousel.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\close.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/close.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\code.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/code.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\component-animations.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/component-animations.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\dropdowns.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/dropdowns.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\forms.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/forms.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\glyphicons.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/glyphicons.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\grid.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/grid.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\input-groups.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/input-groups.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\jumbotron.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/jumbotron.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\labels.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/labels.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\list-group.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/list-group.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\media.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/media.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\alerts.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/alerts.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\background-variant.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/background-variant.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\border-radius.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/border-radius.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\buttons.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/buttons.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\center-block.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/center-block.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\clearfix.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/clearfix.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\forms.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/forms.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\gradients.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/gradients.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\grid-framework.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/grid-framework.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\grid.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/grid.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\hide-text.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/hide-text.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\image.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/image.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\labels.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/labels.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\list-group.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/list-group.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\nav-divider.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/nav-divider.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\nav-vertical-align.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/nav-vertical-align.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\opacity.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/opacity.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\pagination.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/pagination.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\panels.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/panels.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\progress-bar.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/progress-bar.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\reset-filter.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/reset-filter.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\reset-text.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/reset-text.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\resize.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/resize.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\responsive-visibility.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/responsive-visibility.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\size.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/size.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\tab-focus.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/tab-focus.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\table-row.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/table-row.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\text-emphasis.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/text-emphasis.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\text-overflow.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/text-overflow.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\mixins\vendor-prefixes.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/mixins/vendor-prefixes.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\modals.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/modals.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\navbar.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/navbar.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\navs.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/navs.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\normalize.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/normalize.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\pager.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/pager.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\pagination.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/pagination.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\panels.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/panels.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\popovers.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/popovers.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\print.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/print.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\progress-bars.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/progress-bars.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\responsive-embed.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/responsive-embed.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\responsive-utilities.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/responsive-utilities.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\scaffolding.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/scaffolding.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\tables.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/tables.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\theme.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/theme.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\thumbnails.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/thumbnails.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\tooltip.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/tooltip.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\type.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/type.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\utilities.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/utilities.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\variables.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/variables.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\less\wells.less" afterPath="$PROJECT_DIR$/public/bootstrap/less/wells.less" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\nuget\MyGet.ps1" afterPath="$PROJECT_DIR$/public/bootstrap/nuget/MyGet.ps1" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\nuget\bootstrap.less.nuspec" afterPath="$PROJECT_DIR$/public/bootstrap/nuget/bootstrap.less.nuspec" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\nuget\bootstrap.nuspec" afterPath="$PROJECT_DIR$/public/bootstrap/nuget/bootstrap.nuspec" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\package.js" afterPath="$PROJECT_DIR$/public/bootstrap/package.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\bootstrap\package.json" afterPath="$PROJECT_DIR$/public/bootstrap/package.json" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\.bower.json" afterPath="$PROJECT_DIR$/public/jquery/.bower.json" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\.editorconfig" afterPath="$PROJECT_DIR$/public/jquery/.editorconfig" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\.gitattributes" afterPath="$PROJECT_DIR$/public/jquery/.gitattributes" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\.gitignore" afterPath="$PROJECT_DIR$/public/jquery/.gitignore" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\.gitmodules" afterPath="$PROJECT_DIR$/public/jquery/.gitmodules" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\.jshintrc" afterPath="$PROJECT_DIR$/public/jquery/.jshintrc" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\AUTHORS.txt" afterPath="$PROJECT_DIR$/public/jquery/AUTHORS.txt" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\CONTRIBUTING.md" afterPath="$PROJECT_DIR$/public/jquery/CONTRIBUTING.md" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\Gruntfile.js" afterPath="$PROJECT_DIR$/public/jquery/Gruntfile.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\MIT-LICENSE.txt" afterPath="$PROJECT_DIR$/public/jquery/MIT-LICENSE.txt" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\README.md" afterPath="$PROJECT_DIR$/public/jquery/README.md" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\build\release-notes.js" afterPath="$PROJECT_DIR$/public/jquery/build/release-notes.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\build\release.js" afterPath="$PROJECT_DIR$/public/jquery/build/release.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\component.json" afterPath="$PROJECT_DIR$/public/jquery/component.json" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\composer.json" afterPath="$PROJECT_DIR$/public/jquery/composer.json" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\jquery-migrate.js" afterPath="$PROJECT_DIR$/public/jquery/jquery-migrate.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\jquery-migrate.min.js" afterPath="$PROJECT_DIR$/public/jquery/jquery-migrate.min.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\jquery.alerts.css" afterPath="$PROJECT_DIR$/public/jquery/jquery.alerts.css" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\jquery.alerts.js" afterPath="$PROJECT_DIR$/public/jquery/jquery.alerts.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\jquery.js" afterPath="$PROJECT_DIR$/public/jquery/jquery.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\jquery.min.js" afterPath="$PROJECT_DIR$/public/jquery/jquery.min.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\jquery.min.map" afterPath="$PROJECT_DIR$/public/jquery/jquery.min.map" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\package.json" afterPath="$PROJECT_DIR$/public/jquery/package.json" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\speed\benchmark.js" afterPath="$PROJECT_DIR$/public/jquery/speed/benchmark.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\speed\benchmarker.css" afterPath="$PROJECT_DIR$/public/jquery/speed/benchmarker.css" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\speed\benchmarker.js" afterPath="$PROJECT_DIR$/public/jquery/speed/benchmarker.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\speed\closest.html" afterPath="$PROJECT_DIR$/public/jquery/speed/closest.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\speed\css.html" afterPath="$PROJECT_DIR$/public/jquery/speed/css.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\speed\event.html" afterPath="$PROJECT_DIR$/public/jquery/speed/event.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\speed\filter.html" afterPath="$PROJECT_DIR$/public/jquery/speed/filter.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\speed\find.html" afterPath="$PROJECT_DIR$/public/jquery/speed/find.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\speed\index.html" afterPath="$PROJECT_DIR$/public/jquery/speed/index.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\speed\jquery-basis.js" afterPath="$PROJECT_DIR$/public/jquery/speed/jquery-basis.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\speed\slice.vs.concat.html" afterPath="$PROJECT_DIR$/public/jquery/speed/slice.vs.concat.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\.jshintrc" afterPath="$PROJECT_DIR$/public/jquery/src/.jshintrc" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\ajax.js" afterPath="$PROJECT_DIR$/public/jquery/src/ajax.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\ajax\jsonp.js" afterPath="$PROJECT_DIR$/public/jquery/src/ajax/jsonp.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\ajax\script.js" afterPath="$PROJECT_DIR$/public/jquery/src/ajax/script.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\ajax\xhr.js" afterPath="$PROJECT_DIR$/public/jquery/src/ajax/xhr.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\attributes.js" afterPath="$PROJECT_DIR$/public/jquery/src/attributes.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\callbacks.js" afterPath="$PROJECT_DIR$/public/jquery/src/callbacks.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\core.js" afterPath="$PROJECT_DIR$/public/jquery/src/core.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\css.js" afterPath="$PROJECT_DIR$/public/jquery/src/css.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\data.js" afterPath="$PROJECT_DIR$/public/jquery/src/data.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\deferred.js" afterPath="$PROJECT_DIR$/public/jquery/src/deferred.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\deprecated.js" afterPath="$PROJECT_DIR$/public/jquery/src/deprecated.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\dimensions.js" afterPath="$PROJECT_DIR$/public/jquery/src/dimensions.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\effects.js" afterPath="$PROJECT_DIR$/public/jquery/src/effects.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\event-alias.js" afterPath="$PROJECT_DIR$/public/jquery/src/event-alias.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\event.js" afterPath="$PROJECT_DIR$/public/jquery/src/event.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\exports.js" afterPath="$PROJECT_DIR$/public/jquery/src/exports.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\intro.js" afterPath="$PROJECT_DIR$/public/jquery/src/intro.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\manipulation.js" afterPath="$PROJECT_DIR$/public/jquery/src/manipulation.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\offset.js" afterPath="$PROJECT_DIR$/public/jquery/src/offset.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\outro.js" afterPath="$PROJECT_DIR$/public/jquery/src/outro.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\queue.js" afterPath="$PROJECT_DIR$/public/jquery/src/queue.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\serialize.js" afterPath="$PROJECT_DIR$/public/jquery/src/serialize.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\sizzle-jquery.js" afterPath="$PROJECT_DIR$/public/jquery/src/sizzle-jquery.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\support.js" afterPath="$PROJECT_DIR$/public/jquery/src/support.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\src\traversing.js" afterPath="$PROJECT_DIR$/public/jquery/src/traversing.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\.jshintignore" afterPath="$PROJECT_DIR$/public/jquery/test/.jshintignore" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\.jshintrc" afterPath="$PROJECT_DIR$/public/jquery/test/.jshintrc" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\csp.php" afterPath="$PROJECT_DIR$/public/jquery/test/csp.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\1x1.jpg" afterPath="$PROJECT_DIR$/public/jquery/test/data/1x1.jpg" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\ajax\unreleasedXHR.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/ajax/unreleasedXHR.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\atom+xml.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/atom+xml.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\badcall.js" afterPath="$PROJECT_DIR$/public/jquery/test/data/badcall.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\badjson.js" afterPath="$PROJECT_DIR$/public/jquery/test/data/badjson.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\cleanScript.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/cleanScript.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\core\cc_on.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/core/cc_on.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\dashboard.xml" afterPath="$PROJECT_DIR$/public/jquery/test/data/dashboard.xml" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\dimensions\documentLarge.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/dimensions/documentLarge.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\dimensions\documentSmall.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/dimensions/documentSmall.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\echoData.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/echoData.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\echoQuery.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/echoQuery.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\errorWithText.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/errorWithText.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\etag.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/etag.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\evalScript.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/evalScript.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\event\longLoadScript.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/event/longLoadScript.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\event\promiseReady.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/event/promiseReady.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\event\syncReady.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/event/syncReady.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\headers.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/headers.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\if_modified_since.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/if_modified_since.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\iframe.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/iframe.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\jquery-1.8.2.ajax_xhr.min.js" afterPath="$PROJECT_DIR$/public/jquery/test/data/jquery-1.8.2.ajax_xhr.min.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\json.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/json.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\json_obj.js" afterPath="$PROJECT_DIR$/public/jquery/test/data/json_obj.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\jsonp.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/jsonp.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\manipulation\iframe-denied.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/manipulation/iframe-denied.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\name.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/name.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\name.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/name.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\nocontent.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/nocontent.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\offset\absolute.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/offset/absolute.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\offset\body.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/offset/body.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\offset\fixed.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/offset/fixed.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\offset\relative.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/offset/relative.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\offset\scroll.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/offset/scroll.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\offset\static.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/offset/static.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\offset\table.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/offset/table.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\params_html.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/params_html.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\readywaitasset.js" afterPath="$PROJECT_DIR$/public/jquery/test/data/readywaitasset.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\readywaitloader.js" afterPath="$PROJECT_DIR$/public/jquery/test/data/readywaitloader.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\script.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/script.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\selector\html5_selector.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/selector/html5_selector.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\selector\sizzle_cache.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/selector/sizzle_cache.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\statusText.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/statusText.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\support\bodyBackground.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/support/bodyBackground.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\support\shrinkWrapBlocks.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/support/shrinkWrapBlocks.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\support\testElementCrash.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/support/testElementCrash.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\test.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/test.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\test.js" afterPath="$PROJECT_DIR$/public/jquery/test/data/test.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\test.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/test.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\test2.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/test2.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\test3.html" afterPath="$PROJECT_DIR$/public/jquery/test/data/test3.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\testinit.js" afterPath="$PROJECT_DIR$/public/jquery/test/data/testinit.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\testrunner.js" afterPath="$PROJECT_DIR$/public/jquery/test/data/testrunner.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\testsuite.css" afterPath="$PROJECT_DIR$/public/jquery/test/data/testsuite.css" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\text.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/text.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\ua.txt" afterPath="$PROJECT_DIR$/public/jquery/test/data/ua.txt" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\with_fries.xml" afterPath="$PROJECT_DIR$/public/jquery/test/data/with_fries.xml" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\data\with_fries_over_jsonp.php" afterPath="$PROJECT_DIR$/public/jquery/test/data/with_fries_over_jsonp.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\delegatetest.html" afterPath="$PROJECT_DIR$/public/jquery/test/delegatetest.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\hovertest.html" afterPath="$PROJECT_DIR$/public/jquery/test/hovertest.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\index.html" afterPath="$PROJECT_DIR$/public/jquery/test/index.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\localfile.html" afterPath="$PROJECT_DIR$/public/jquery/test/localfile.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\networkerror.html" afterPath="$PROJECT_DIR$/public/jquery/test/networkerror.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\polluted.php" afterPath="$PROJECT_DIR$/public/jquery/test/polluted.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\readywait.html" afterPath="$PROJECT_DIR$/public/jquery/test/readywait.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\ajax.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/ajax.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\attributes.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/attributes.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\callbacks.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/callbacks.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\core.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/core.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\css.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/css.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\data.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/data.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\deferred.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/deferred.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\deprecated.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/deprecated.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\dimensions.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/dimensions.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\effects.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/effects.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\event.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/event.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\exports.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/exports.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\manipulation.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/manipulation.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\offset.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/offset.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\queue.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/queue.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\selector.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/selector.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\serialize.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/serialize.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\support.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/support.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\unit\traversing.js" afterPath="$PROJECT_DIR$/public/jquery/test/unit/traversing.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\jquery\test\xhtml.php" afterPath="$PROJECT_DIR$/public/jquery/test/xhtml.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\.bower.json" afterPath="$PROJECT_DIR$/public/plupload/.bower.json" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\examples\custom.html" afterPath="$PROJECT_DIR$/public/plupload/examples/custom.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\examples\dump.php" afterPath="$PROJECT_DIR$/public/plupload/examples/dump.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\examples\jquery\all_runtimes.html" afterPath="$PROJECT_DIR$/public/plupload/examples/jquery/all_runtimes.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\examples\jquery\jquery_ui_widget.html" afterPath="$PROJECT_DIR$/public/plupload/examples/jquery/jquery_ui_widget.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\examples\jquery\queue_widget.html" afterPath="$PROJECT_DIR$/public/plupload/examples/jquery/queue_widget.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\examples\jquery\s3.php" afterPath="$PROJECT_DIR$/public/plupload/examples/jquery/s3.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\examples\upload.php" afterPath="$PROJECT_DIR$/public/plupload/examples/upload.php" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\Moxie.swf" afterPath="$PROJECT_DIR$/public/plupload/js/Moxie.swf" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\Moxie.xap" afterPath="$PROJECT_DIR$/public/plupload/js/Moxie.xap" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\ar.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/ar.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\bs.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/bs.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\ca.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/ca.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\cs.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/cs.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\cy.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/cy.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\da.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/da.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\de.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/de.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\el.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/el.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\en.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/en.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\es.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/es.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\et.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/et.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\fa.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/fa.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\fi.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/fi.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\fr.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/fr.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\he.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/he.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\hr.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/hr.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\hu.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/hu.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\hy.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/hy.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\id.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/id.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\it.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/it.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\ja.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/ja.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\ka.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/ka.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\kk.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/kk.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\ko.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/ko.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\lt.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/lt.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\lv.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/lv.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\nl.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/nl.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\pl.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/pl.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\pt_BR.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/pt_BR.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\ro.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/ro.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\ru.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/ru.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\sk.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/sk.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\sr.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/sr.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\sv.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/sv.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\th_TH.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/th_TH.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\tr.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/tr.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\uk_UA.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/uk_UA.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\zh_CN.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/zh_CN.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\i18n\zh_TW.js" afterPath="$PROJECT_DIR$/public/plupload/js/i18n/zh_TW.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\jquery.plupload.queue\css\jquery.plupload.queue.css" afterPath="$PROJECT_DIR$/public/plupload/js/jquery.plupload.queue/css/jquery.plupload.queue.css" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\jquery.plupload.queue\img\backgrounds.gif" afterPath="$PROJECT_DIR$/public/plupload/js/jquery.plupload.queue/img/backgrounds.gif" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\jquery.plupload.queue\img\buttons-disabled.png" afterPath="$PROJECT_DIR$/public/plupload/js/jquery.plupload.queue/img/buttons-disabled.png" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\jquery.plupload.queue\img\buttons.png" afterPath="$PROJECT_DIR$/public/plupload/js/jquery.plupload.queue/img/buttons.png" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\jquery.plupload.queue\img\delete.gif" afterPath="$PROJECT_DIR$/public/plupload/js/jquery.plupload.queue/img/delete.gif" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\jquery.plupload.queue\img\done.gif" afterPath="$PROJECT_DIR$/public/plupload/js/jquery.plupload.queue/img/done.gif" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\jquery.plupload.queue\img\error.gif" afterPath="$PROJECT_DIR$/public/plupload/js/jquery.plupload.queue/img/error.gif" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\jquery.plupload.queue\img\throbber.gif" afterPath="$PROJECT_DIR$/public/plupload/js/jquery.plupload.queue/img/throbber.gif" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\jquery.plupload.queue\img\transp50.png" afterPath="$PROJECT_DIR$/public/plupload/js/jquery.plupload.queue/img/transp50.png" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\jquery.plupload.queue\jquery.plupload.queue.js" afterPath="$PROJECT_DIR$/public/plupload/js/jquery.plupload.queue/jquery.plupload.queue.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\jquery.plupload.queue\jquery.plupload.queue.min.js" afterPath="$PROJECT_DIR$/public/plupload/js/jquery.plupload.queue/jquery.plupload.queue.min.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\jquery.ui.plupload\css\jquery.ui.plupload.css" afterPath="$PROJECT_DIR$/public/plupload/js/jquery.ui.plupload/css/jquery.ui.plupload.css" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\jquery.ui.plupload\img\loading.gif" afterPath="$PROJECT_DIR$/public/plupload/js/jquery.ui.plupload/img/loading.gif" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\jquery.ui.plupload\img\plupload.png" afterPath="$PROJECT_DIR$/public/plupload/js/jquery.ui.plupload/img/plupload.png" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\jquery.ui.plupload\jquery.ui.plupload.js" afterPath="$PROJECT_DIR$/public/plupload/js/jquery.ui.plupload/jquery.ui.plupload.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\jquery.ui.plupload\jquery.ui.plupload.min.js" afterPath="$PROJECT_DIR$/public/plupload/js/jquery.ui.plupload/jquery.ui.plupload.min.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\moxie.js" afterPath="$PROJECT_DIR$/public/plupload/js/moxie.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\moxie.min.js" afterPath="$PROJECT_DIR$/public/plupload/js/moxie.min.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\plupload.dev.js" afterPath="$PROJECT_DIR$/public/plupload/js/plupload.dev.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\plupload.full.min.js" afterPath="$PROJECT_DIR$/public/plupload/js/plupload.full.min.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\js\plupload.min.js" afterPath="$PROJECT_DIR$/public/plupload/js/plupload.min.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\license.txt" afterPath="$PROJECT_DIR$/public/plupload/license.txt" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\plupload\readme.md" afterPath="$PROJECT_DIR$/public/plupload/readme.md" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\.bower.json" afterPath="$PROJECT_DIR$/public/respond/.bower.json" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\Gruntfile.js" afterPath="$PROJECT_DIR$/public/respond/Gruntfile.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\LICENSE-MIT" afterPath="$PROJECT_DIR$/public/respond/LICENSE-MIT" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\README.md" afterPath="$PROJECT_DIR$/public/respond/README.md" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\bower.json" afterPath="$PROJECT_DIR$/public/respond/bower.json" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\cross-domain\example.html" afterPath="$PROJECT_DIR$/public/respond/cross-domain/example.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\cross-domain\respond-proxy.html" afterPath="$PROJECT_DIR$/public/respond/cross-domain/respond-proxy.html" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\cross-domain\respond.proxy.gif" afterPath="$PROJECT_DIR$/public/respond/cross-domain/respond.proxy.gif" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\cross-domain\respond.proxy.js" afterPath="$PROJECT_DIR$/public/respond/cross-domain/respond.proxy.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\dest\respond.matchmedia.addListener.min.js" afterPath="$PROJECT_DIR$/public/respond/dest/respond.matchmedia.addListener.min.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\dest\respond.matchmedia.addListener.src.js" afterPath="$PROJECT_DIR$/public/respond/dest/respond.matchmedia.addListener.src.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\dest\respond.min.js" afterPath="$PROJECT_DIR$/public/respond/dest/respond.min.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\dest\respond.src.js" afterPath="$PROJECT_DIR$/public/respond/dest/respond.src.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\package.json" afterPath="$PROJECT_DIR$/public/respond/package.json" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\src\matchmedia.addListener.js" afterPath="$PROJECT_DIR$/public/respond/src/matchmedia.addListener.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\src\matchmedia.polyfill.js" afterPath="$PROJECT_DIR$/public/respond/src/matchmedia.polyfill.js" />
-      <change type="MOVED" beforePath="E:\Aptana Studio 3\workspace\wiki完善\qiniu-file-up\bower_components\respond\src\respond.js" afterPath="$PROJECT_DIR$/public/respond/src/respond.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.js" afterPath="$PROJECT_DIR$/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/fileupload/fileupload.js" afterPath="$PROJECT_DIR$/routes/fileupload/fileupload.js" />
     </list>
     <ignored path="qiniu-file-up.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -935,7 +37,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="5.147059">
+            <state vertical-scroll-proportion="-1.4705882">
               <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
               <folding />
             </state>
@@ -946,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/routes/fileupload/fileupload.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
+              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -956,19 +58,7 @@
         <entry file="file://$PROJECT_DIR$/config.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="api.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/api.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="3" />
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -977,17 +67,27 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="13.392858">
+            <state vertical-scroll-proportion="-16.071428">
               <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="route.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/plupload/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.936937">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="route.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/route.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12864494">
+            <state vertical-scroll-proportion="0.0">
               <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
               <folding />
             </state>
@@ -1008,8 +108,9 @@
         <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/routes/api.js" />
         <option value="$PROJECT_DIR$/views/index.html" />
-        <option value="$PROJECT_DIR$/routes/fileupload/fileupload.js" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/config.js" />
+        <option value="$PROJECT_DIR$/routes/fileupload/fileupload.js" />
       </list>
     </option>
   </component>
@@ -1021,7 +122,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
+    <option name="x" value="-11" />
     <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
@@ -1211,10 +312,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="1378" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="-11" y="0" width="1378" height="744" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25447762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23507462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1226,6 +327,19 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25447762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22058824" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1259,6 +373,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/route.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4705882">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/fileupload/fileupload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/routes/api.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1270,49 +424,23 @@
     <entry file="file://$PROJECT_DIR$/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/fileupload/fileupload.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="57" selection-start-line="13" selection-start-column="57" selection-end-line="13" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.147059">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="13.392858">
+        <state vertical-scroll-proportion="-16.071428">
           <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/route.js">
+    <entry file="file://$PROJECT_DIR$/public/plupload/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12864494">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        <state vertical-scroll-proportion="-5.936937">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>

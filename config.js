@@ -1,5 +1,5 @@
 /*
- * 配置参数：我个人的七牛账号的公钥和私钥等账户信息
+ * 配置参数：配置个人的七牛账号的公钥和私钥等账户信息
  */
 module.exports = {
     'ACCESS_KEY': 'CBk2qYIgebRVDFHqaYk0vf9Jp7hSAcIvKyw49qIx',
