@@ -1,0 +1,2 @@
+# qiniu-nodejsSDK-plupload_real_fileup
+通过plupload插件和七牛云提供SDK实现直接上传文件至七牛云个人空间
