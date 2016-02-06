@@ -6,6 +6,6 @@ module.exports = {
     'SECRET_KEY': 'nNeq3K3ajI6NRQZzamyDxdbtnPnoXXjsn4af0V9n',
     'Bucket_Name': 'qiniu-file-up',    // 个人空间名
     'Port': 19111,
-    'Uptoken_Url': '/uptoken',
+    'Uptoken_Url': '/api/fileupload/uptoken',
     'Domain': '7xqqm5.com1.z0.glb.clouddn.com'    // 七牛子域名，自定义域名。
 };
