@@ -16,8 +16,7 @@ app.set('views', path.join(__dirname, 'views'));
 app.engine('html', require('ejs').renderFile); // 用ejs模板引擎来处理'.html'后缀的文件
 app.set('view engine', 'html');
 
-// 设置bower_components文件目录问静态目录
-app.use(express.static(path.join(__dirname, 'bower_components'),{index:false}));
+// 设置public文件目录问静态目录
 app.use(express.static(path.join(__dirname, 'public'),{index:false}));
 
 // uncomment after placing your favicon in /public
