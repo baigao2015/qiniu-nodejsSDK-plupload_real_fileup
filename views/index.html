@@ -148,9 +148,10 @@
       console.log(responseObject);
       // responseObject为从服务器返回的对象
       var key = eval("("+responseObject.response+")").key;
-      // 文件是图片，则添加预览和下载功能（默认上传的资源为公有资源，私有资源必须通过手动设置）
+      // 如果文件是图片，则添加预览和下载功能（默认上传的资源为公有资源，私有资源必须通过手动设置）
       if(isImage(key)) {
         htmlStr = '<img alt="" src="http://'+Domain+'/'+key+'" width="100" height="100">';
+               /// +'<span><a href="http://'+Domain+'/'+key+'" title="查看原图"></a></span>';
         // 找到当前列
         $("tr[data-file_name='"+key+"']").find('td:eq(3)').text('').append(htmlStr);
       }else{   // 如果不是，则添加下载功能
