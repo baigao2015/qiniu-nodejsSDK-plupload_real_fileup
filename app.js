@@ -18,6 +18,7 @@ app.set('view engine', 'html');
 
 // 设置public文件目录问静态目录
 app.use(express.static(path.join(__dirname, 'public'),{index:false}));
+app.use(express.static(path.join(__dirname, 'common'),{index:false}));
 
 // uncomment after placing your favicon in /public
 //app.use(favicon(__dirname + '/public/favicon.ico'));

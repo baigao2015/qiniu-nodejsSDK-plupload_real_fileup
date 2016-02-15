@@ -8,4 +8,5 @@ module.exports = {
     'Port': 19111,
     'Uptoken_Url': '/api/fileupload/uptoken',
     'Domain': '7xqqm5.com1.z0.glb.clouddn.com'    // 七牛子域名，自定义域名。
-};
+        //公共资源文件下载时则是根据绑定的自定义域名和上传时返回的key值来下载
+    };
