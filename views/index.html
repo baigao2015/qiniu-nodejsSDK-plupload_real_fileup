@@ -1,10 +1,13 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>文件上传</title>
   <link rel="stylesheet" href="bootstrap/dist/css/bootstrap.css">
   <link rel="stylesheet" href="jquery/jquery.alerts.css">
+  <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
   <!-- <link rel='stylesheet' href='/stylesheets/style.css' />-->
   <!--[if lt IE 9]>
   <script  src="respond/dest/respond.min.js"></script>
@@ -22,8 +25,8 @@
 </head>
 <body>
 <div id="wrapper">
-  <div class="header">
-    <span style="float:right;font-size:20px;line-height:3.0;margin-right:20px;color:#465567;">文件上传服务器</span>
+  <div class="header light-blue lighten-1">
+    <span style="float:right;font-size:20px;line-height:3.0;margin-right:20px;color:#e1f5fe;">文件上传服务器</span>
   </div>
   <div class="container clearfix" style="width:100%;">
     <div id="chose-picture">
@@ -31,17 +34,17 @@
         <i class="glyphicon glyphicon-plus"></i>
         <span>选择文件</span>
       </a>
-      <a class="btn btn-default" id="start_upload">
+      <a class="btn btn-default" id="start_upload" style="margin: 10px 0px 0px 10px;">
         <i class="icon-star"></i>
         <span>开始上传</span>
       </a>
-      <table style="width:70%;margin:30px 0px 0px 10px;" id="file-info" class="table table-striped table-hover">
+      <table style="width:800px;margin:30px 0px 0px 10px;" id="file-info" class="table table-striped table-hover">
         <thead>
           <tr>
             <th style="width:20%;">文件名</th>
             <th style="width:20%;">大小</th>
             <th style="width:20%;">详情</th>
-            <th style="width:40%;"></th>
+            <th style="width:30%;"></th>
           </tr>
         </thead>
         <tbody>
@@ -63,6 +66,7 @@
 <script type="text/javascript" src="plupload/js/i18n/zh_CN.js"></script>
 <script type="text/javascript" src="jquery/jquery.alerts.js"></script>
 <script type="text/javascript" src="common.js"></script>
+<script type="text/javascript" src="js/materialize.js"></script>
 
 <script type="text/javascript">
   var Domain =  '7xqqm5.com1.z0.glb.clouddn.com';    // 七牛子域名，自定义域名。
@@ -113,7 +117,7 @@
     uploader.bind('FilesAdded',function(uploader, files){
       var html = '';
       for(var i=0; i<files.length; i++) {
-        console.log(files[i].name);
+        console.log('files_name___:'+files[i].name);
         if(isImage(files[i].name)) {   // 上传的为图片
           html = '<tr data-file_name="'+files[i].name+'">'
                   +'<td>'+files[i].name+'</td>'
@@ -135,7 +139,7 @@
 
     // 文件上传出错时触发
     uploader.bind('Error',function(uploader,errObject){
-      console.log(errObject);
+      console.log("error___:"+errObject);
       jAlert(""+eval("("+errObject.response+")").error+"", "提示");
       var key = errObject.file.name;
       // 出错处理
@@ -145,12 +149,13 @@
     // 文件上传完成后触发,也就是文件上传成功
     uploader.bind('FileUploaded',function(uploader, file, responseObject){
       var htmlStr;
+      console.log("responseObject___:");
       console.log(responseObject);
       // responseObject为从服务器返回的对象
       var key = eval("("+responseObject.response+")").key;
       // 文件是图片，则添加预览和下载功能（默认上传的资源为公有资源，私有资源必须通过手动设置）
       if(isImage(key)) {
-        htmlStr = '<img alt="" src="http://'+Domain+'/'+key+'" width="100" height="100">';
+        htmlStr = '<img alt="" src="http://'+Domain+'/'+key+'" width="100" height="100" class="materialboxed">';
         // 找到当前列
         $("tr[data-file_name='"+key+"']").find('td:eq(3)').text('').append(htmlStr);
       }else{   // 如果不是，则添加下载功能
@@ -170,6 +175,8 @@
       });
       // 清空文件队列
       file.length = 0 ;
+      // 初始化
+      $('.materialboxed').materialbox();
     });
 
     //最后给"开始上传"按钮注册事件
