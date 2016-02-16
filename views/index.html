@@ -117,7 +117,8 @@
     uploader.bind('FilesAdded',function(uploader, files){
       var html = '';
       for(var i=0; i<files.length; i++) {
-        console.log('files_name___:'+files[i].name);
+        console.log('files_name___:');
+        console.log(files[i].name);
         if(isImage(files[i].name)) {   // 上传的为图片
           html = '<tr data-file_name="'+files[i].name+'">'
                   +'<td>'+files[i].name+'</td>'
@@ -139,7 +140,8 @@
 
     // 文件上传出错时触发
     uploader.bind('Error',function(uploader,errObject){
-      console.log("error___:"+errObject);
+      console.log("error___:");
+      console.log(errObject);
       jAlert(""+eval("("+errObject.response+")").error+"", "提示");
       var key = errObject.file.name;
       // 出错处理
