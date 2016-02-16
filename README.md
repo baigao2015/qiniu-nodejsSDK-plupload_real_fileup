@@ -140,5 +140,9 @@ Plupload 是一个Web浏览器上的界面友好的文件上传组件，可显�
 ###3、图片的预览
 图片的预览其实是将图片下载即可！
 
+图片查看原图的效果使用库materialize链接: http://materializecss.com/media.html
+材料设计：
+
+
 ##五、总结
 ###1、nodejs-sdk可实现文件的上传，在这实例中使用的是plupload插件来实现的，后续变换方式实现
